@@ -3,6 +3,7 @@ message: "If you use or reference this work, please cite it as below."
 title: "Universal Expression by John Brajer"
 abstract: "Universal Expression by John Brajer: Trillsverse / Choseverse systems term for expression across scale, context, substrate, and configuration."
 type: software
+doi: "10.5281/zenodo.23718125"
 authors:
   - family-names: Brajer
     given-names: John
